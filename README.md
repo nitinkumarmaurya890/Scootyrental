@@ -1,6 +1,6 @@
 # Scootyrental
 It is multi pages website in which user can book Scooter/Scooty to travel from source to distination.
-Rather than high cost booking of vehicles , this website provide facilities in cheap pries.
+Rather than high cost booking of vehicles , this website provide facilities in cheap prise.
 
 ----------------TABLE OF CONTENTS-----------------
 * Introduction.
