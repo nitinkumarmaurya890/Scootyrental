@@ -5,7 +5,7 @@ Rather than high cost booking of vehicles , this website provide facilities in c
 ----------------TABLE OF CONTENTS-----------------
 * Introduction.
 * Sign up & Sign in.
-* * Database.
+* Database.
 * How to use.
 * Contect Us.
 * Locations.
